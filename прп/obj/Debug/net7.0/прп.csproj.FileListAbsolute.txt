@@ -1,0 +1,5 @@
+/Users/levonbabaan/Projects/прп/прп/obj/Debug/net7.0/прп.csproj.AssemblyReference.cache
+/Users/levonbabaan/Projects/прп/прп/obj/Debug/net7.0/прп.GeneratedMSBuildEditorConfig.editorconfig
+/Users/levonbabaan/Projects/прп/прп/obj/Debug/net7.0/прп.AssemblyInfoInputs.cache
+/Users/levonbabaan/Projects/прп/прп/obj/Debug/net7.0/прп.AssemblyInfo.cs
+/Users/levonbabaan/Projects/прп/прп/obj/Debug/net7.0/прп.csproj.CoreCompileInputs.cache
